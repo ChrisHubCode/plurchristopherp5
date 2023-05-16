@@ -42,6 +42,7 @@ body {
 	width: 20px;
 }
 
+
 #about {
 	display: flex;
 	background-color: #F6D2B8;
@@ -125,6 +126,7 @@ body {
 	height: 100%;
 	object-fit: cover;
 	padding: .5em;
+	max-width: 500px;
 }
 .mg-prev, .mg-next {
 	width: 30px;
@@ -352,5 +354,7 @@ input[type="submit"] {
 	.picture {
 		width: 80%;
 	}
+	
+	
 }
 
